@@ -7,8 +7,8 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>The unofficial page to see Brendan Flatley & the pope's fav christians (new pope, whaddup. Just talked to him, we're still his favorites and he mentioned hating matzah ball soup) fantasy football domination</p>
-  <p>Check out trades, waiver pickups, historical matchups/overall records between teams, and some other shit.</p>
+  <p>The unofficial page to see Brendan Flatley & the pope's fav christians (new pope, whaddup. Just talked to him, we're still his favorites and he mentioned hating matzah ball soup) fantasy football domination over the years.</p>
+  <p>Check out trades, league transactions/trades, historical matchups/overall records between teams, and some other shit. Looking to add more cool things soon, and there will be power rankings under this description when the season starts.</p>
   <p>Any suggestions for the website can be sent to my secretary and current commish, John Watts</p>
 `;
 
