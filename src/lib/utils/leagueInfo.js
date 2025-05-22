@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>The unofficial page to see Brendan Flatley & the pope's fav christians (new pope, whaddup) plus nine other nerds' fantasy football history since the inception of the Alpha Beta Dynasty League. Or, since 2021 because I think we were on ESPN or something before that.</p>
+  <p>The unofficial page to see Brendan Flatley & the pope's fav christians (new pope, whaddup) plus nine other nerds' fantasy football history since the inception of the Alpha Beta Dynasty League. Or, since 2021 because I think we were on ESPN or something before that. Thank you Sleeper for the sick, free API.</p>
   <p>The coolest thing so far is the rival page under league info where you can see total wins/losses against another manager, any trades between the two of you, and some overall stats. Looking to add more cool things soon, and there will be power rankings under this description when the season starts.</p>
   <p>Any suggestions for the website can be sent to my secretary and current commish, John Watts.</p>
   <p>Go Rams</p>
