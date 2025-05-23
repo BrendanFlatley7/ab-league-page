@@ -13,8 +13,6 @@ export const homepageText = `
   <p>Go Rams</p>
 `;
 
-homepageText.style.textAlign = 'center';
-
 /*   STEP 3   */
 /*
 3 managers as an example. Uncomment (remove the //) before each line to make it live code
@@ -39,7 +37,7 @@ export const managers = [
       "rival": {
         name: "Aron Minkoff", // Can be anything (usually your rival's name)
         link: 6, // manager array number within this array, or null to link back to all managers page
-        image: "/managers/minkoff.jpeg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        image: "/managers/everyone.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
       "favoritePlayer": 9493, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "RB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
